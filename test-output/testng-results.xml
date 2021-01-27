@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13862" started-at="2021-01-27T15:51:06Z" finished-at="2021-01-27T15:51:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13862" started-at="2021-01-27T15:51:06Z" finished-at="2021-01-27T15:51:20Z">
+      <class name="soapTestRunner.testRunnerGetEmployee">
+        <test-method status="PASS" signature="getEmployeeTest()[pri:0, instance:soapTestRunner.testRunnerGetEmployee@c818063]" name="getEmployeeTest" duration-ms="1129" started-at="2021-01-27T15:51:17Z" finished-at="2021-01-27T15:51:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEmployeeTest -->
+      </class> <!-- soapTestRunner.testRunnerGetEmployee -->
+      <class name="restApi.testRunnerLibrary">
+        <test-method status="PASS" signature="soapTestLibrary()[pri:0, instance:restApi.testRunnerLibrary@2ff4f00f]" name="soapTestLibrary" duration-ms="682" started-at="2021-01-27T15:51:19Z" finished-at="2021-01-27T15:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- soapTestLibrary -->
+      </class> <!-- restApi.testRunnerLibrary -->
+      <class name="soapTestRunner.testRunner">
+        <test-method status="PASS" signature="soaptest()[pri:0, instance:soapTestRunner.testRunner@4ec6a292]" name="soaptest" duration-ms="503" started-at="2021-01-27T15:51:19Z" finished-at="2021-01-27T15:51:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- soaptest -->
+      </class> <!-- soapTestRunner.testRunner -->
+      <class name="restApi.testRunnerLibraryAllTestSuites">
+        <test-method status="PASS" signature="allTestSuites()[pri:0, instance:restApi.testRunnerLibraryAllTestSuites@3f0ee7cb]" name="allTestSuites" duration-ms="11525" started-at="2021-01-27T15:51:06Z" finished-at="2021-01-27T15:51:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allTestSuites -->
+      </class> <!-- restApi.testRunnerLibraryAllTestSuites -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
