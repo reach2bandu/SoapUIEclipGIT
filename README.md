@@ -1,2 +1,2 @@
 # SoapUIEclipGIT
-Soapui-Eclipse-Framework-Java API
+Soapui-Eclipse-Framework-Java API - TesNG
